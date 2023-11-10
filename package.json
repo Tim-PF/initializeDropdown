@@ -1,0 +1,22 @@
+{
+  "name": "tim-pf-initializedropdown",
+  "version": "1.0.0",
+  "description": "Toggling visibility of dropdown menu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Tim-PF/initializeDropdown.git"
+  },
+  "keywords": [
+    "dropdown"
+  ],
+  "author": "Tim Pf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tim-PF/initializeDropdown/issues"
+  },
+  "homepage": "https://github.com/Tim-PF/initializeDropdown#readme"
+}
